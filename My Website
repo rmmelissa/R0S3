@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> All About Me</title>
+<style>
+*{font-family: arial, verdana;
+font size="18"}
+
+#header {
+	background-color: black; 
+	color:white; 
+	text-align: center;
+	padding: 5px;
+}
+
+#nav {
+	line-height: 30px;
+	background-color:#eeeeee;
+	height: 625px; 
+	width: 200px;
+	float: left;
+	padding: 5px;
+}
+
+#section {
+	width: 350px;
+	float: left;
+	padding: 10px;
+}
+
+#footer {
+	background-color: black;
+	color: white;
+	clear: both;
+	text-align: center;
+	padding: 5px;
+}
+</style>
+</head>
+<body>
+
+<div id="header">
+<h1> Welcome to My World </h1>
+
+</div>
+
+<div id="nav">
+<br> <b> <a href=index.html style="text-decoration:none;"> My Happiest Time </a> <br>
+<a href=MyInterests.html style="text-decoration:none;"> My Interests </a> <br>
+<a href=PersonDay.html style="text-decoration:none;"> Person for a Day </a> <br>
+<a href=PersonIAdmire.html style="text-decoration:none;"> Person I Admire </a> <br>
+<a href=MyCareer.html style="text-decoration:none;"> My Career </a> <br>
+<a href=RetirementParty.html style="text-decoration:none;"> My Retirement Party </a> <br>
+<a href=SummerVacation.html style="text-decoration:none;"> Summer Vacation </a> <br>
+<a href=MyFavoriteQuotes.html style="text-decoration:none;"> My Favorite Quotes </a> </b>
+</div>
+
+
+
+<br>
+<br>
+<img src="tworoads.jpg" width="326" height="308" alt="Robert Frost"/>
+
+<div id="section"/>
+<h2> My Favorite Quotes </h2>
+<marquee behavior="alternate"> You must be the change you wish to see in the world.<br> -Mahatma Gandhi </marquee>
+<p> When the whole world is silent even one voice becomes powerful. <br> -Malala </p>
+<p> Love all, trust a few, do wrong to none. <br> -William Shakespeare </p>
+<p> Accept no one's definition of your life; define yourself. <br> -Robert Frost </p>
+</div>
+
+<div id="footer">
+<b> Created By: Rocio Mayorga, March 2016 </b>
+</div>
+
+</body>
+</html>
